@@ -1,4 +1,4 @@
-## Memory-Card
+# Memory-Card
 
 Memory Card is a simple card matching game.
 
